@@ -46,3 +46,9 @@ h2 {
 }
 
 /* ⚠️ Los estilos personalizados de cada miembro se añaden al final */
+/* Estilo personalizado de Pablo */
+.miembro-pablo {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    border-radius: 10px;
+}
