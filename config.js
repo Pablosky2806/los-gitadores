@@ -15,8 +15,13 @@ const configuracion = {
             nombre: "Marcos",
             rol: "Diseñador UI",
             github: "Marcos2288"
-        }
-        // Otros miembros añadirán sus datos aquí
+        },
+        {
+            nombre: "Erik",
+            rol: "Frontend Developer",
+            github: "Hawaiiiiii"
+        },
+
     ]
 };
 
