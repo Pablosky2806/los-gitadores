@@ -4,7 +4,7 @@ Portafolio colaborativo del equipo Los Gitadores.
 ## 👥 Miembros del equipo
 Cada miembro añadirá su nombre y rol aquí cuando haga su tarjeta.
 
-- Pablo – Jefe del equipo
+- - **Pablo** – Jefe del equipo – @usuario-pablo
 - Erik – Frontend Developer
 - Marcos – Diseñador UI
 - Iván – Responsable de Proyectos
