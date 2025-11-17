@@ -45,15 +45,28 @@ h2 {
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
 }
 
-/* ⚠️ Los estilos personalizados de cada miembro se añaden al final */
-/* Estilo personalizado de Pablo */
+
 .miembro-pablo {
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     color: white;
     border-radius: 10px;
 }
+
 .miembro-ivan {
     background: linear-gradient(135deg, #4d64cc 0%, #8e59c4 100%);
     color: aliceblue;
     border-radius: 10px;
+}
+
+.miembro-erik {
+    background: linear-gradient(135deg, #4834d4 0%, #686de0 100%);
+    color: white;
+    border-left: 5px solid #3742fa;
+    transition: transform 0.3s ease;
+}
+
+.miembro-erik:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(72, 52, 212, 0.4);
+
 }
