@@ -45,12 +45,40 @@ h2 {
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
 }
 
-
-
-.miembro-ivan {
-    background: linear-gradient(135deg, #4d64cc 0%, #8e59c4 100%);
+.miembro-pablo {
+    background: linear-gradient(135deg, #8e59c4 0%, #f9f9fa 100%);
     color: aliceblue;
     border-radius: 10px;
+}
+
+.miembro-pablo:hover {
+    transform: translateX(-30px);
+    box-shadow: 0 8px 20px rgba(37, 15, 175, 0.4);
+
+}
+
+.miembro-ivan {
+    background: linear-gradient(135deg, #1d46fc 0%, #a4c459 100%);
+    color: aliceblue;
+    border-radius: 10px;
+}
+
+.miembro-ivan:hover {
+    transform: translateX(-30px);
+    box-shadow: 0 8px 20px rgba(37, 15, 175, 0.4);
+
+}
+
+.miembro-marcos {
+    background: linear-gradient(135deg, #0530ee 0%, #f71414 100%);
+    color: aliceblue;
+    border-radius: 10px;
+}
+
+.miembro-marcos:hover {
+    transform: translateX(-30px);
+    box-shadow: 0 8px 20px rgba(8, 8, 8, 0.4);
+
 }
 
 .miembro-erik {
