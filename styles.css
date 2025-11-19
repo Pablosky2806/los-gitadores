@@ -46,11 +46,6 @@ h2 {
 }
 
 
-.miembro-pablo {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-    color: white;
-    border-radius: 10px;
-}
 
 .miembro-ivan {
     background: linear-gradient(135deg, #4d64cc 0%, #8e59c4 100%);
@@ -59,14 +54,14 @@ h2 {
 }
 
 .miembro-erik {
-    background: linear-gradient(135deg, #4834d4 0%, #686de0 100%);
+    background: linear-gradient(135deg, #9834a4 35%, #611de0 100%);
     color: white;
-    border-left: 5px solid #3742fa;
+    border-left: 5px solid #9742fa;
     transition: transform 0.3s ease;
 }
 
 .miembro-erik:hover {
-    transform: translateY(-5px);
+    transform: translateX(-30px);
     box-shadow: 0 8px 20px rgba(72, 52, 212, 0.4);
 
 }
