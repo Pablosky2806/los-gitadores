@@ -19,5 +19,4 @@ Cada miembro añadirá su nombre y rol aquí cuando haga su tarjeta.
 ## 🔥 Flujo de trabajo (IMPORTANTE)
 1. Todos hacen **git clone** del repositorio.
 2. Cambiar a la rama develop:
-   ```bash
    git checkout develop
